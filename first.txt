@@ -1,2 +1,2 @@
 hello this is my first git file repository 
-kool dude i am learning so fast 
+ Hello this is branch file 
