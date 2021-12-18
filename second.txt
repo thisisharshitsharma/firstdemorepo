@@ -2,3 +2,4 @@ this is my second file
 now i dont know what to write here but i am still typing becuase i have to learn git 
 lol
 dsgsdag we are going to practice it 
+Now lets practice conflicts 
